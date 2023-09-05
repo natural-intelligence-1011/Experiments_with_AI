@@ -1,2 +1,2 @@
-# Experiments_with_llm
-Repository to journal my experiments with training and fine tuning LLMs and other NLP tasks
+# Experiments_with_AI
+Repository to journal my experiments with training and building AI applications
